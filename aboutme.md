@@ -22,8 +22,4 @@ In my childhood, I was captivated by screens, pondering what was happening insid
 ### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=nekaneloop&theme=dracula&no-frame=true&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-
 
