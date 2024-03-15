@@ -6,7 +6,7 @@
 
   <div id="header" align="center">
   <span style="font-size: 70px; color: #ff0000;">
-    ⚧️ Non Binary | 🎥 Cinema | 👾 Games
+    🎥 Cinema | 👾 Games
   </span>
 </div> <br>
   
